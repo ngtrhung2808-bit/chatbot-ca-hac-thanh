@@ -1,5 +1,7 @@
 # 🚔 Dự án Chatbot Công an phường Hạc Thành
+Dự án chatbot hỗ trợ thủ tục hành chính, cư trú và PCCC.
 
+**GitHub Repository:** [https://github.com/ngtrhung2808-bit/chatbot-ca-hac-thanh](https://github.com/ngtrhung2808-bit/chatbot-ca-hac-thanh)
 Dự án này là một Trợ lý ảo AI thông minh giúp giải đáp các thủ tục hành chính, cư trú và PCCC cho công dân phường Hạc Thành, tỉnh Thanh Hóa.
 
 ## 🚀 Công nghệ sử dụng
