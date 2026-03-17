@@ -1,0 +1,5 @@
+{
+  "name": "Công an phường Hạc Thành, tỉnh Thanh Hóa",
+  "description": "Giải đáp thủ tục hành chính 24/7",
+  "requestFramePermissions": ["microphone"]
+}
